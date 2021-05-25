@@ -1,0 +1,62 @@
+body{
+	font-family: Georgia, serif;
+    font-size: 13px;
+	color:#222222;
+}
+h2{
+	font-size:16px !important;
+	color:#3355aa !important;
+	font-weight:bold !important;
+}
+.header{
+	height:80px;
+}
+.navbar{
+	
+	height:40px;
+	background-color:#3355aa;
+	font-size: 15px;
+}
+.navbar-nav>li{
+  border-right: 1px solid #000;
+  
+  
+}
+.navbar-nav>li:first-child{
+   border-left: 1px solid #000;
+}
+#about{
+	margin-top:35px;
+	
+}
+.image,.card-body-2{
+	margin:10px;
+}
+.card-body-2{
+	font-size:14px;
+}
+.line{
+	
+	height:3px;
+	
+}
+.sub-para{
+	font-size:10px;
+}
+.second-con{
+	margin-top:45px;
+}
+.second-header{
+	margin-top:25px;
+	margin-bottom:25px;
+	font-size:28px;
+}
+.card-title{
+	font-weight:normal !important;
+	
+}
+.card-text{
+	height:250px;
+	text-height: 5px;
+    background-color: rgba(221, 221, 221, 0.863);
+}
